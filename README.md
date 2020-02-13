@@ -2,7 +2,7 @@
 
 # Documentation Maltego CE and CaseFile
 
-Explaining Maltego CE and CaseFile with some cases as examples.
+Explaining Maltego CE and CaseFile with some cases as examples (in dutch)
 
 Maltego CE / CaseFile is a free information gathering tool (if you want more features, you have to pay)
 
